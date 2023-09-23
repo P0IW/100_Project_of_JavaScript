@@ -1,1 +1,1 @@
-# 100_Project_of_JavaScript
+# 100_Projects_of_JavaScript
